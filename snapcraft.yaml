@@ -20,4 +20,4 @@ parts:
 
 apps:
   privesc:
-  command: exploit
+  command: ./exploit
